@@ -1,4 +1,4 @@
-# Selection families of harpin 
+# Split families of pre-miRNAs
 
 Author: MIRELE CAROLINA SOUZA
 
